@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Susan Mali
-**A passionate Python Developer || SEO Enthusiast
+A passionate Python Developer || SEO Enthusiast
 
 - 🌱 **I’m currently learning:** Java
 - 📫 **How to reach me:** sushanmalakar@gmail.com
