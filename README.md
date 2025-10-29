@@ -1,5 +1,12 @@
-# 💫 Hi 👋, I'm Susan Mali  
-A passionate Python Developer || SEO Enthusiast  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SusanMali.SusanMali" alt="visitor badge"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Susan+Mali!;+Python+Developer!;+SEO+Enthusiast!;" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A passionate Python Developer and SEO Enthusiast from Nepal 🇳🇵</h3>
+
+---
 
 - 🌱 **I’m currently learning:** Java  
 - 📫 **How to reach me:** sushanmalakar@gmail.com  
@@ -7,7 +14,7 @@ A passionate Python Developer || SEO Enthusiast
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/sushan_malakar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
   </a>
@@ -27,43 +34,53 @@ A passionate Python Developer || SEO Enthusiast
 
 ---
 
-## 🐍 My Contributions
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,cs,dotnet,c,sqlite,mysql,django,wordpress" height="40" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,lightroom,canva" height="40" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,apache" height="40" />
+</p>
+
+---
+
+## 🐍 My Contributions  
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 💻 Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,cs,dotnet,c,sqlite,mysql,django,wordpress" height="40" />
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,lightroom,canva" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,apache" height="40" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=SusanMali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SusanMali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanMali&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SusanMali&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
+  <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=SusanMali&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanMali&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=SusanMali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SusanMali&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
 ## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=SusanMali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SusanMali&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SusanMali&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SusanMali&icon=0&color=0" />
+</p>
 
